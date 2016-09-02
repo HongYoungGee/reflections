@@ -1,1 +1,5 @@
 asdf
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+-git diff --staged 명령어를 이용하여 체크한다
