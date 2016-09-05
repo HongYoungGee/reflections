@@ -3,3 +3,13 @@ asdf
 How can you use the staging area to make sure you have one commit per logical change?
 
 -git diff --staged 명령어를 이용하여 체크한다
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+-새로운 기술을 실험하거나 다른 버전을 만들고싶을때 좋다
+
+How do the diagrams help you visualize the branch structure
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+- 자동으로 할경우 편하지만 작동하지 않을수 있고
+-수동으로 할경우 시간이 오래걸ㄹ지ㅣ만 확실하다
